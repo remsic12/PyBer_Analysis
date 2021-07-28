@@ -19,6 +19,8 @@ By combining data sets I was able to produce the below overview to help summariz
   * For this same reason of low supply and demand drivers also make the most per fare
   * One thing that is not taken into account in our data is ride length. I do wonder if Rural ride length likely being longer also plays into the higher fare cost
 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/79228491/127357524-1de36dfe-11c8-42ff-b1e6-9d0dfcfdfab5.png)
+
 ## Summary
 
  Overall we see a correlation that more drivers is better for the rider and less drivers is better for the drivers. As far as PyBer my reccomendation would be the following 
